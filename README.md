@@ -23,7 +23,7 @@ My current tech stack is:
     - TypeScript as main language
     - Express
     - Next.js
-    - Testing: jest, Cypress
+    - Testing: jest, Cucumber, Cypress
   - Python ecosystem:
     - Django
 - Servers / Sys:
