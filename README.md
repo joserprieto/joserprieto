@@ -1,8 +1,8 @@
-## Hi to everybody! 👋
+## Hi to everybody! 👋 🖖
 
-I'm Jose R. Prieto, Developer, DevOps, and IT Consultant.
+I'm  🧔‍♂️ Jose R. Prieto, Developer 👨‍💻 , DevOps 📟 , and IT Consultant ☕ .
 
-I spent more than 20 years working on better solutions for the IT industry, and I have a lot of histories to share.
+I spent more than 20 years ( 😓 ) working on better solutions for the IT industry, and I have a lot of  📜  histories to share.
 
 #### Resume of my public repos
 
@@ -13,13 +13,11 @@ I spent more than 20 years working on better solutions for the IT industry, and 
 I work with a lot of tools, languages, and stacks, over the years; but, for now, I (principallly) work with:
 
 
-
-
 #### 👷 Check out what I'm currently working on
 
 Coming soon..
 
-#### 🌱 My latest public projects
+#### 🌱 My latest experiences
 
 Coming soon..
 
