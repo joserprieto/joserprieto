@@ -34,13 +34,11 @@ Coming soon..
 #### 📜 Últimas entradas / artículos (es)
 
 Coming soon..
+
 #### 📫 Contact with me come with me
 
-- Linkedin: https://linkedin.com/in/delirehberi
-- Twitter: https://twitter.com/delirehberi
-- Youtube: https://www.youtube.com/c/EmreYILMAZ
-- Podcasts: https://anchor.fm/delirehberi
-- Soundcloud: https://soundcloud.com/delirehberi
+Coming soon..
+
 
 
 
