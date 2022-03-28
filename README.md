@@ -35,7 +35,7 @@ Coming soon..
 
 Coming soon..
 
-#### 📫 Contact with me come with me
+#### 📫 Contact with me
 
 Coming soon..
 
