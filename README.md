@@ -19,7 +19,7 @@ I work with a lot of tools, languages, and stacks, over the years; but, for now,
 
 Coming soon..
 
-#### 🌱 My latest public projects
+#### 🌱 My latest professional projects / jobs
 
 Coming soon..
 
