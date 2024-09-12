@@ -12,12 +12,6 @@ I worked with a lot of tools, languages, and stacks, over the years; but, right 
 
 [Current Stack](https://stackshare.io/joserprieto/current-stack)
 
-
-### Resume of my public repos
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=delirehberi&icons=true&theme=vue&layout=compact)
-
-
 ### 👷 Check out what I'm currently working on
 
 I'm working on [Avincis](https://avincis.com), on the Spanish I+D+i Department, as a DevOp & Solutions Architect; we're working on a fantastic and more exciting project for get information in real time, manage, and operate, on critical missions, like fires, critical rescues, and so on; with aerial vehicles; tripulated and no tripulated (yes, UAV too).
@@ -56,6 +50,11 @@ Coming soon..
 
 (Yes, i'm working on it and update this info, really!)
 
+### Stats info
+
+#### Resume of my public repos
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=delirehberi&icons=true&theme=vue&layout=compact)
 
 
 
