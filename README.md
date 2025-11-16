@@ -1,60 +1,92 @@
-## Hi to everybody! 👋
+# Hi, I'm Jose 👋
 
-I'm Jose R. Prieto, and i'm work as Software Architect, DevOp Architect, Solutions Architect, and Tech Leader.
+**Head of Platform & Solutions Architect** | 25 years leading technology adoption
 
-I like to be an "evangelist" of best IT practices; SOLID, KISS, YAGNI, Clean code, design patterns, clean architecture.. Automation, pipelines, isolation, inmutability, o11y, relability, and so on..
+## 🎯 What I Do
 
-I've work on IT from 1999; yeah, a few years.. With a lot of coleagues, companies (clients, partners, contractors), technologies, tools.. A lot of histories to tell us 😅🙈💪🏼
+I help companies **modernize legacy systems** and **build scalable platforms** with clear ROI and pragmatic architecture decisions.
 
-### Current stack
+**Track record**: 2001 online insurance pioneer (Spain) → 2025 platform engineering for critical 24x7 systems
 
-I worked with a lot of tools, languages, and stacks, over the years; but, right now, you can see mi current stack here (thanks to stackshare.io!):
+## 🚀 Highlights
 
-[Current Stack](https://stackshare.io/joserprieto/current-stack)
+### Recent Projects
 
-### 👷 Check out what I'm currently working on
+- 🛠️ **[ai-diagrams-toolkit](https://github.com/joserprieto/ai-diagrams-toolkit)**: Mermaid templates + semantic colors + AI integration for professional diagrams
+- 💰 **€98k savings**: Google Workspace → Open Source stack (350 users, 9 tools) - Validated OpenDesk EU 2025
+- 🎯 **99.5% uptime**: Critical aerial emergency systems (24x7, 5-person team)
+- 📊 **60-70% incident reduction**: Systematic analysis + pragmatic improvements
 
-I'm working on [Avincis](https://avincis.com), on the Spanish I+D+i Department, as a DevOp & Solutions Architect; we're working on a fantastic and more exciting project for get information in real time, manage, and operate, on critical missions, like fires, critical rescues, and so on; with aerial vehicles; tripulated and no tripulated (yes, UAV too).
+### Transformations Timeline
 
-I'm dealing with the infrastructure asociate to the various lines of the projects, and try tha "everything works fine" all the time.
+- **2001**: 🏆 Pioneer online insurance Spain (FIRST quoter, before Rastreator) + Microsoft case study
+- **2008**: 🔓 Open source enterprise (Symfony 1.2 + ExtJS 2.2, cutting edge)
+- **2015**: ⚙️ Early DevOps adoption Spain (Ansible + automation, before mainstream)
+- **2022**: 👥 Organizational transformation (Team 0→4.5 FTE, Google→OSS)
+- **2024**: 🚁 Critical platform engineering (Avincis aerial emergencies, 99.5% uptime)
 
-And, i try to automate **everything** on our tools and on our develop methods, and for our developers.. More or less; but, we are yet on the road 😥
+## 💡 My Approach
 
-My approach is follow the Platform Engineering practices, that is good for developers, and good for Ops, because if we have success applying these techniques, we would have a lot of control of the releases and the solutions releases to our production environments; and all of this they will be transparent for our developers, and that will be very good, grateful, and great for all of us.
+**Pragmatism over hype**:
 
-### 🌱 My latest professional projects / jobs
+- ✅ €190-280k documented savings by saying NO to overengineering
+- ✅ Docker Swarm when K8s is overkill (€100-150k saved)
+- ✅ Right-sizing architecture to team capacity (not resume-driven development)
 
-I hope than we can tell you very much of the projects that we are working on Avincis I+D+i, and put here some public links to more information of these projects; for the moment, you have to stay tunned.. I'm so sorry 🙏🏼
+**Hands-on architect**:
 
-### 🌱 My latest public projects
+- ✅ Design on whiteboard AND debug at 3am
+- ✅ Code reviews after 38 years programming
+- ✅ Matrix org coordination (20-24 people across 4 vendor teams)
 
-Coming soon..
+**Testing-first**:
 
-(Yes, i'm working on it and update this info, really!)
+- ✅ DDD/Hexagonal architectures
+- ✅ CI/CD quality gates
+- ✅ TDD advocacy
+- ✅ With AI adoption, testing is more critical than ever
 
-### 📜 My recent blog posts / just in english
+## 🛠️ Tech Stack
 
-Coming soon..
+**Platform**: Docker Swarm (prod), Terraform, OpenStack, AWS  
+**Observability**: LGTM Stack (Prometheus, Grafana, Loki, Tempo)  
+**Data**: PostgreSQL, MongoDB, Kafka, NiFi, Airflow, Spark  
+**Languages**: Python, Java, JavaScript/TypeScript, Bash, PHP  
+**CI/CD**: GitLab CI/CD, GitHub Actions
 
-(Yes, i'm working on it and update this info, really!)
+## 🌟 Unique Background
 
-### 📜 Últimas entradas / artículos (es)
+- 🔬 **Industrial Chemical Engineering** (USC) - formal systems modeling
+- 💼 **CEO experience** (SME during 2008 crisis) - business P&L understanding
+- 📐 **38 years programming** (LOGO 1984 → Platform Engineering 2025)
+- 🏆 **2001 Pioneer**: First online insurance Spain + Microsoft case study
 
-Coming soon..
+## 📊 Organizational Impact
 
-(Estoy trabajando en ello, de verdad, para tener la información actualizada)
+- **Matrix org**: 20-24 people coordinated (4 vendor teams)
+- **Infrastructure authority**: 9-person team (Stellantis), 5-25 teams (Vodafone)
+- **Team building**: 0→4.5 FTE in 6 months
+- **Hiring**: 4 companies, 20+ years experience
 
-### 📫 Contact with me
+## 🌐 Connect
 
-Coming soon..
+- 🔗 **LinkedIn**: [linkedin.com/in/joserprieto](https://linkedin.com/in/joserprieto)
+- 📧 **Email**: hi@joserprieto.es
+- 🌍 **Location**: Galicia, Spain (100% remote, 10+ years)
 
-(Yes, i'm working on it and update this info, really!)
+## 📚 Currently
 
-### Stats info
+- Building **ai-diagrams-toolkit** (Mermaid + AI integration)
+- Writing some technical articles
+- Exploring next opportunity (Head of Platform, Principal Engineer roles)
 
-#### Resume of my public repos
+---
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=delirehberi&icons=true&theme=vue&layout=compact)
+**24-year pattern**: Detect transformative tech early, adopt pragmatically, scale in real organizations.
 
+**Zero catastrophic incidents in 25 years.** Not by luck, by method.
 
+---
 
+- _Last updated: 2025-11-16_
+- _v1.0.0-alpha.4_
